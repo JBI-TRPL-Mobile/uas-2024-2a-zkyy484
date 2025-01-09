@@ -1,18 +1,33 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/6dbs_zXm)
-[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-2e0aaae1b6195c2367325f4f02e2d04e9abb55f0b24a779b69b11b9e10269abc.svg)](https://classroom.github.com/online_ide?assignment_repo_id=17645556&assignment_repo_type=AssignmentRepo)
-# template_project
+## UAS SEMESTER 3
+# NAMA  : MOCH. DZAKY MUSYADDAD
+# NIM  : 362358302011
+# KELAS  : 2A TRPL
 
-A new Flutter project.
+1. Halaman Utama
+   ![image](https://github.com/user-attachments/assets/a2c0c3b5-c9d9-4a92-9457-6c2e4876d604)
 
-## Getting Started
+2. Halaman Sig in
+   ![image](https://github.com/user-attachments/assets/158b484b-f081-4b4a-93a7-7188b85ea308)
 
-This project is a starting point for a Flutter application.
+3. Halaman Sing Up
+   ![image](https://github.com/user-attachments/assets/709a4086-2c53-479e-aa37-dee7394c3635)
 
-A few resources to get you started if this is your first Flutter project:
+4. Halaman Beranda/Home
+   ![image](https://github.com/user-attachments/assets/f7e18566-7f0c-4c64-a6c1-9bb243bccc5c)
+   ![image](https://github.com/user-attachments/assets/2b3da5ec-5aa6-4aa9-a3a9-23272e28cc8f)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+5. Halaman Message/Pesan
+   ![image](https://github.com/user-attachments/assets/31305db3-44ed-4e5e-af1a-eb5f44a02ff6)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+6. Halaman Profile
+   ![image](https://github.com/user-attachments/assets/1e703a3e-54d6-48a5-9f62-86a70e5d4de2)
+
+7. Halaman Profile(Kondisi Log Out)
+   ![image](https://github.com/user-attachments/assets/90c4a9c3-1d6f-419d-8714-107538f076cc)
+
+
+
+
+
+
+
